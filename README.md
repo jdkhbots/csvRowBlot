@@ -28,4 +28,23 @@ The csvRowBlot is a Python-based project designed to remove specific genders fro
 - User-Friendly Interface Design: Design an intuitive and clear user interface with informative prompts and error messages.
 - Adapting to Changing Gender Terminology: Stay updated with current gender terminology and ensure the project remains inclusive and adaptable.
 
+<h2>Walk through</h2>
+<p align="center">
+ 
+- The folder before the new file is created<br />
+ <img src="https://imgur.com/ULPSGwR.png" height="60%" width="35%" alt="csvRowBlot"/>
+<br />
+<br />
+
+- The user is prompted for the name of the file, gender to blot and name for the new file.<br/>
+<img src="https://imgur.com/jlx9ytL.png" height="20%" width="80%" alt="csvRowBlot"/>
+<br />
+<br />
+ 
+- The folder after the new file is created. <br />
+<img src="https://imgur.com/xbDfXkH.png" height="60%" width="35%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 <b>Due to work Ethics and to preserve the identity of those in the file, I cannot share the csv file. You may use the code to check and suggest improvements</b>
