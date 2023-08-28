@@ -3,6 +3,7 @@ The project was for  a removing some rows from a csv file
 <h1>Description:</h1>
 
 The csvRowBlot Python-based project developed to facilitate the manipulation and refining of data within CSV (Comma-Separated Values) files. What initially stemmed from a client's request to extract data based on specific genders has evolved into a comprehensive tool capable of filtering rows based on multiple criteria, including gender.
+The blot.py file is only gender specific. But the blotmore.py file allows the user to choose what to take out and what to create a new file with, it is more flexible and easy to use.
 
 <h2>Key Features:</h2>
 
