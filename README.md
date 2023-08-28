@@ -2,11 +2,11 @@
 The project was for  a removing some rows from a csv file
 <h1>Description:</h1>
 
-The csvRowBlot is a Python-based project designed to remove specific genders from a CSV (Comma-Separated Values) file, addressing real-world data processing challenges. It originated from a client's request to create a file containing data for a specific gender from a list of approximately 500 people. This inspired the development of the RowBlot, a tool that allows users to filter and extract gender-specific data from CSV files with ease and efficiency.
+The csvRowBlot Python-based project developed to facilitate the manipulation and refining of data within CSV (Comma-Separated Values) files. What initially stemmed from a client's request to extract data based on specific genders has evolved into a comprehensive tool capable of filtering rows based on multiple criteria, including gender.
 
 <h2>Key Features:</h2>
 
-- Efficiently removes designated genders from CSV files.
+- Efficiently removes designated rows from CSV files.
 - Compatible with large datasets, ensuring optimal performance.
 - Maintains the integrity of the original CSV file structure while removing specified genders.
 - Suitable for a wide range of applications, including data science, research, and data-driven decision-making.
